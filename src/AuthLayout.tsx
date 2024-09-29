@@ -8,9 +8,7 @@ import Footer from "./components/Footer/Footer";
 function AuthLayout() {
 	return (
 		<>
-			{/* <Hearder /> */}
 			<Outlet />
-			{/* <Footer /> */}
 		</>
 	);
 }
